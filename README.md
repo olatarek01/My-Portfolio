@@ -1,4 +1,4 @@
-# Ola Tarek — Personal Portfolio Website 🌐
+# Personal Portfolio Website 🌐
 
 A fully responsive and modern **personal portfolio website** built to showcase my frontend development skills, projects, and experience.  
 This portfolio focuses on **clean UI design**, **smooth animations**, and **user-friendly interactions**, while maintaining performance and accessibility best practices.
